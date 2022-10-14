@@ -2,6 +2,8 @@
 
 # GraphQL Faker
 
+(This codebase needs updates to @faker-js/faker and more) 
+
 [![Build Status](https://github.com/APIs-guru/graphql-faker/workflows/CI/badge.svg?branch=master)](https://github.com/APIs-guru/graphql-faker/actions?query=branch%3Amaster)
 [![npm](https://img.shields.io/npm/v/graphql-faker.svg)](https://www.npmjs.com/package/graphql-faker)
 [![David](https://img.shields.io/david/APIs-guru/graphql-faker.svg)](https://david-dm.org/APIs-guru/graphql-faker)
